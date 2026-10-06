@@ -3,9 +3,9 @@ layout: default
 title: Hidden Berkeley
 ---
 
-# Hidden Berkeley
+# A Beginner's Berkeley
+The best guide for the first couple months in Berkeley as a new resident. Reccomendation's of where to go and what to do for incoming student's success, included are the building's and their official souces.
 
-A starting guide to Berkeley places and services. Check each resource's official webpage for current access details.
 
 <!-- Edit the heading and introduction above. The supplied loop below displays each row of the CSV. -->
 {% for resource in site.data.locations %}
