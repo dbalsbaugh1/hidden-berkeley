@@ -4,7 +4,7 @@ title: Hidden Berkeley
 ---
 
 # A Beginner's Berkeley
-The best guide for the first couple months in Berkeley as a new resident. Reccomendations of where to go and what to do for incoming student's success, included are the building's and their official souces.
+The best guide for the first couple months in Berkeley as a new resident. Reccomendations of where to go and what to do for incoming student's success, included are the buildings and their official souces.
 
 
 <!-- Edit the heading and introduction above. The supplied loop below displays each row of the CSV. -->
