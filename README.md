@@ -17,7 +17,7 @@ GitHub Pages builds the website from `main` and `/docs`. After you push a change
 
 ## Purpose and sources
 
-Replace this paragraph with two or three sentences about your guide's audience and purpose. The first eight resources were supplied by COMPSS 211A. Name the resource you added and link to the official webpage you used to check it.
+My guide is aimed toward a new freshman, transfer, or graduate student who is feeling lost or unsure of a new city like Berkley. The purpose of the website is to make a big, busy city feel a little more at home with many places and options to visit and explore. I added the Career Center website the link is https://career.berkeley.edu/ . 
 
 ## Website checks
 
